@@ -1,0 +1,22 @@
+img {
+  width: 200px;
+  border: 2px dashed red;
+  padding: 20px;
+  margin: 20px;
+}
+
+h1 {
+  color: Red;
+  font-size: 50px;
+  font-family: arial;
+}
+  
+#cheesy {
+  border: 2px dashed red;
+  padding: 20px;
+  margin: 20px;
+}
+
+body {
+  background-image: url(" http://img.youtube.com/vi/fRnnr-El6xY/hqdefault.jpg");
+  color: Gold;
